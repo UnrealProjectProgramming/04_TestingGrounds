@@ -18,8 +18,7 @@
 *.so
 *.dylib
 *.dll
-*.uasset
-*.umap
+
 # Fortran module files
 *.mod
 
@@ -74,4 +73,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-TestingGround/Content/StarterContent/
