@@ -1,7 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Visual Studio 2017 database file
+# Visual Studio 2015 database file
 *.VC.db
 
 # Compiled Object files
@@ -18,8 +18,7 @@
 *.so
 *.dylib
 *.dll
-*.uasset
-*.umap
+
 # Fortran module files
 *.mod
 
@@ -75,3 +74,7 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 TestingGround/Content/StarterContent/
+TestingGround/Content/FirstPerson/
+TestingGround/Content/Geometry/
+TestingGround/Content/Mannequin/
+TestingGround/Content/ThirdPerson/
