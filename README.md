@@ -13,5 +13,5 @@
 ## Game Pictures
 
 
+![Alt Text](https://i.imgur.com/Q7lGJvY.png)
 
-[Imgur](https://i.imgur.com/Q7lGJvY.png)
