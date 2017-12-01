@@ -1,16 +1,17 @@
-# TestingGrounds 
-### "Initial Game Name"
+# FPS Never-End Level game.
 
-## Survival FPS Game
-
-* Rich Level Design
-* Advanced AI
+### What I coverd Learning 
+* A.I System
+* Environmental Query System
 * Advanced FPS controller system
-* ALOT OF GADETSSSS !
+* Never End Level Design
+* FPS animation setup
 
-## Challenging Ideas
+### What I am planning to do
+* Destructable Walls and etc
 
-* MultiPlayer Co-op
-* Cinematic Introduction
-* Destructable Areas 
+## Game Pictures
 
+
+
+[Imgur](https://i.imgur.com/Q7lGJvY.png)
